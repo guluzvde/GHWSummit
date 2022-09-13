@@ -1,3 +1,25 @@
+const button = document.getElementById('cbutton')
+const carousel = document.getElementById('carousel')
+const box = document.getElementById('team-box')
+
+
+button.addEventListener('click',myAction);
+function myAction(){
+    if(carousel.style.display==='none'){
+        carousel.style.display='block';
+        box.style.display='none'
+
+    }else{
+
+        carousel.style.display='none';
+        box.style.display='block'
+    }
+// box.style.display='block'
+}
+
+
+
+
 
 (function($) {
 	"use strict";

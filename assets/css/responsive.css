@@ -329,6 +329,9 @@
         font-size: 48px;
         margin: 0px 0px 28px 0px;
     }
+    .row{
+        justify-content: center;
+    }
     .container>img{
         height: 10rem;
       }
