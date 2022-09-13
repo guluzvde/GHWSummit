@@ -5730,13 +5730,11 @@ body .search-modal .close:hover {
     27. Footer Section CSS
 ------------------------------------*/
 .rs-footer.style1 {
-  background-image: url(assets/images/bg/footer-bg.jpg);
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: cover;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(238,79,57,1) 0%, rgba(255,250,0,1) 100%);
 }
 .rs-footer.style1 .footer-top {
-  padding: 205px 0 95px;
+  padding: 50px 0 50px;
 }
 .rs-footer.style1 .footer-top .footer-logo img {
   height: 40px;
