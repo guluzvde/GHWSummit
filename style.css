@@ -21,6 +21,10 @@ body {
   line-height: 1.7;
   font-weight: 400;
   overflow-x: hidden;
+  background-color: #ebcdd8;
+  background-image: linear-gradient(0deg, #ebcdd8 0%, #c7f5f1 43%, #ffffff 74%);
+  
+  
 }
 img {
   max-width: 100%;
@@ -1246,6 +1250,8 @@ blockquote cite:before {
   width: 100%;
   position: relative;
   align-items: center;
+  margin: 0;
+  padding: 0;
   justify-content: space-between;
 }
 .full-width-header .rs-header .menu-area .row-table .col-cell {
@@ -1369,6 +1375,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area.sticky {
   background: #fff;
+  top: -1rem;
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area a .sticky-logo {
   display: block;
@@ -2017,10 +2024,12 @@ body .search-modal .close:hover {
     04. Sticky Menu CSS
 --------------------------------------*/
 .menu-sticky {
+  padding: 0;
   background: #fff;
   margin: 0;
   z-index: 999;
   width: 100%;
+  height: 5.4rem;
   top: 0;
   position: relative;
 }
@@ -2636,6 +2645,9 @@ body .search-modal .close:hover {
 .rs-counter.about-style.home-style2.home-style6 .counter-list .counter-text .title,
 .rs-counter.about-style.home-style2.home-style6 .counter-list .counter-text .rs-count {
   color: white;
+}
+.eds-vector-image-size--reset svg{
+  visibility: hidden;
 }
 /* ------------------------------------
     15. Event Us Section CSS
