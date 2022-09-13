@@ -2257,6 +2257,7 @@ body .search-modal .close:hover {
 ---------------------------------------*/
 .rs-banner.main-home {
   background: url(assets/images/banner/style1/banner-bg.jpg);
+
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2267,6 +2268,9 @@ body .search-modal .close:hover {
 }
 .rs-banner.main-home .content-wrap .icon-wrap img {
   height: 81px;
+}
+.container>img{
+  height: 20rem;
 }
 .rs-banner.main-home .content-wrap .underline-text {
   font-size: 24px;
@@ -2721,10 +2725,14 @@ body .search-modal .close:hover {
 /* ------------------------------------
     14. Counter Section CSS
 ---------------------------------------*/
+.rs-counter>.container>.row{
+  display: flex;
+  justify-content: center;
+}
 .rs-counter.about-style .counter-list {
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
 }
 .rs-counter.about-style .counter-list .counter-icon {
   text-align: center;
@@ -5735,7 +5743,9 @@ body .search-modal .close:hover {
 }
 .rs-footer.style1 .footer-top {
   padding: 50px 0 50px;
+
 }
+
 .rs-footer.style1 .footer-top .footer-logo img {
   height: 40px;
 }

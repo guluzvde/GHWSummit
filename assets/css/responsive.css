@@ -329,6 +329,9 @@
         font-size: 48px;
         margin: 0px 0px 28px 0px;
     }
+    .container>img{
+        height: 15rem;
+      }
     .rs-events-schedule.our-event .event-item .event-wrap .content-info .title {
         font-size: 19px;
         line-height: 26px;
@@ -452,7 +455,7 @@
         border-left: unset;
     }
     .rs-banner.banner-home-style2 .content-wrap .small-title {
-        font-size: 40px;
+        font-size: 20px;
     }
     .rs-banner.banner-home-style2 .content-wrap .title {
         font-size: 90px;
@@ -583,6 +586,7 @@
     .rs-footer.style1 .footer-bottom .copy-right-menu li a {
         font-size: 14px;
     }
+    
     .rs-team-Single .rs_single_event_item .schedule__single li .event-shedule-info .rs__topic {
         padding: 35px;
     }
