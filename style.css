@@ -171,128 +171,14 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.bg3 {
-  background: url(assets/images/bg/about-bg.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg4 {
-  background: url(assets/images/bg/park-bg.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 .bg5 {
   background: url(assets/images/bg/schedule-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.bg6 {
-  background: url(assets/images/bg/table-bg.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg7 {
-  background-color: #FAF4FE;
-  background-image: url(assets/images/bg/ticket-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg8 {
-  background-image: url(assets/images/bg/sponsor-bg.jpg);
-  background-repeat: no-repeat;
-  background-position: top left;
-  background-size: cover;
-}
-.bg9 {
-  background-color: #FAF4FE;
-  background-image: url(assets/images/bg/blog-bg.jpg);
-  background-repeat: no-repeat;
-}
-.bg10 {
-  background-image: url(assets/images/bg/counter-bg2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg11 {
-  background-color: #FFFFFF78;
-  background-image: url(assets/images/bg/choose-bg2.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg12 {
-  background-image: url(assets/images/bg/team-bg2.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg13 {
-  background-image: url(assets/images/bg/sponsor-bg2.jpg);
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg14 {
-  background-image: url(assets/images/bg/join-about-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg15 {
-  background-image: url(assets/images/bg/sponsor-about.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg16 {
-  background-image: url(assets/images/bg/contact-bg3.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg17 {
-  background-image: url(assets/images/bg/about-bg4.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 148px 0px 100px 0px;
-}
-.bg18 {
-  background-image: url(assets/images/bg/sponsor-bg4.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg19 {
-  background-image: url(assets/images/bg/about-bg5.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg20 {
-  background-image: url(assets/images/bg/even-service-bg5.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg21 {
-  background-image: url(assets/images/bg/event-bg5.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.bg22 {
-  background-image: url(assets/images/bg/sponsor-bg5.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.bg23 {
-  background-image: url(assets/images/bg/testi-bg5.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
+
 .bg24 {
   background-color: #F8F8F8;
   background-image: url(assets/images/bg/matrix.jpeg);
@@ -306,33 +192,8 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.bg26 {
-  background-color: #F8F8F8;
-  background-image: url(assets/images/bg/price-bg6.png);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bg27 {
-  background-color: #F8F8F8;
-  background-image: url(assets/images/bg/blog-bg6.png);
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.offwrap {
-  cursor: url(assets/images/close.png), auto;
-  width: 100%;
-  left: 100%;
-  transition: all 0.8s ease-out 0s;
-  position: fixed;
-  background: #1a0b8c;
-  height: 100vh;
-  top: 0;
-  bottom: 0;
-  opacity: .8;
-  z-index: 999;
-}
+
+
 .copyright p {
   font-size: 15px;
 }
