@@ -181,7 +181,7 @@ ul {
 
 .bg24 {
   background-color: #F8F8F8;
-  background-image: url(assets/images/bg/matrix.jpeg);
+  background-image: url(assets/images/bg/matrixx.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2635,7 +2635,7 @@ body .search-modal .close:hover {
 }
 .rs-counter.about-style.home-style2.home-style6 .counter-list .counter-text .title,
 .rs-counter.about-style.home-style2.home-style6 .counter-list .counter-text .rs-count {
-  color: #0a0a0a;
+  color: white;
 }
 /* ------------------------------------
     15. Event Us Section CSS
