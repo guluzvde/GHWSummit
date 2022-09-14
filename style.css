@@ -2958,8 +2958,13 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-events-schedule.rs-events-schedule3 .events-schedule-contents .events-items {
+  display: flex;
   background: #fff;
   border-bottom: none;
+  /* height: 7rem; */
+  justify-content: space-around;
+  align-items: center;
+  /* overflow: hidden; */
 }
 .rs-events-schedule.rs-events-schedule3 .events-schedule-contents .events-items .row {
   align-items: center;
